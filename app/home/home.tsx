@@ -58,7 +58,7 @@ export default function Home() {
     <div className="flex max-[700px]:flex-col justify-between mt-16 w-[90%] max-[700px]:mb-16">
       <div className="ml-16 mr-8 mt-4" ref={avatar}>
         <Image
-          className="rounded-full min-[700px]:h-[75%] min-[500px]:h-[350px] max-[500px]:h-[250px]"
+          className="rounded-full min-[700px]:h-[75%] min-[500px]:h-[350px] max-[500px]:h-[230px]"
           src="/images/abel-avatar.jpg"
           width={400}
           height={400}
