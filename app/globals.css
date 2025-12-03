@@ -25,6 +25,10 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.mobile-menu{
+  overflow-y: hidden;
+}
+
 
 @media (max-width:700px) {
   .pc-menu{
@@ -35,6 +39,7 @@ body {
   }
   
 }
+
 
 @media (min-width:700px) {
   .mobile-menu{
