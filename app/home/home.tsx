@@ -83,7 +83,9 @@ export default function Home() {
             ref={refs[2]}
           >
             <button className="dark:bg-white bg-black text-white dark:text-black p-2 text-black text-sm space-x-2 rounded flex h-8 items-center justify-center">
-              <p>Resume</p>
+              <a href="/Resume-Abel-Mitiku.pdf" download>
+                Resume
+              </a>
               <ExternalLink className="w-[20px] h-[20px]" />
             </button>
             <Link href={"/contact"} className="underline text-bold mt-2">
