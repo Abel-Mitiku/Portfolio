@@ -5,7 +5,7 @@ import Link from "next/link";
 import Article from "./article";
 
 export default function Articles() {
-  const articles = useRef([]);
+  const refs = useRef<HTMLElement[]>([]);
   const header = useRef(null);
 
   useEffect(() => {
@@ -25,7 +25,7 @@ export default function Articles() {
           y: 0,
         }
       );
-      articles.current.forEach((el) => {
+      refs.current.forEach((el) => {
         t1.fromTo(
           el,
           {
@@ -42,9 +42,9 @@ export default function Articles() {
     return () => ctx.revert();
   }, []);
 
-  const addToRef = (el) => {
-    if (el && !articles.current.includes(el)) {
-      articles.current.push(el);
+  const addToRef = (el: HTMLElement | null) => {
+    if (el && !refs.current.includes(el)) {
+      refs.current.push(el);
     }
   };
   return (
