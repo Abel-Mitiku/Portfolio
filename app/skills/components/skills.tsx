@@ -8,7 +8,7 @@ import { Bug, Brain, Search, Cpu, Lock, Workflow } from "lucide-react";
 gsap.registerPlugin(ScrollTrigger);
 
 export default function Skills() {
-  const refs = useRef([]);
+  const refs = useRef<HTMLElement[]>([]);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -37,7 +37,7 @@ export default function Skills() {
     return () => ctx.revert();
   }, []);
 
-  const addToRef = (el) => {
+  const addToRef = (el: HTMLElement | null) => {
     if (el && !refs.current.includes(el)) {
       refs.current.push(el);
     }

@@ -8,7 +8,7 @@ gsap.registerPlugin(ScrollTrigger);
 
 export default function Projects() {
   const skill = useRef(null);
-  const refs = useRef([]);
+  const refs = useRef<HTMLElement[]>([]);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -37,7 +37,7 @@ export default function Projects() {
     return () => ctx.revert();
   }, []);
 
-  const addToRefs = (el) => {
+  const addToRefs = (el: HTMLElement | null) => {
     if (el && !refs.current.includes(el)) {
       refs.current.push(el);
     }

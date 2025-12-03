@@ -6,7 +6,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 export default function Debugging() {
-  const refs = useRef([]);
+  const refs = useRef<HTMLElement[]>([]);
 
   useEffect(() => {
     const ctx = gsap.context(() => {
@@ -35,7 +35,7 @@ export default function Debugging() {
     return () => ctx.revert();
   }, []);
 
-  const addToRef = (el) => {
+  const addToRef = (el: HTMLElement | null) => {
     if (el && !refs.current.includes(el)) {
       refs.current.push(el);
     }

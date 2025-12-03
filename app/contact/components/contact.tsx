@@ -12,7 +12,7 @@ import { ScrollTrigger } from "gsap/ScrollTrigger";
 gsap.registerPlugin(ScrollTrigger);
 
 export default function Contact() {
-  const contacts = useRef([]);
+  const contacts = useRef<HTMLElement[]>([]);
   const header = useRef(null);
 
   useEffect(() => {
@@ -49,7 +49,7 @@ export default function Contact() {
     return () => ctx.revert();
   }, []);
 
-  const addToRef = (el) => {
+  const addToRef = (el: HTMLElement | null) => {
     if (el && !contacts.current.includes(el)) {
       contacts.current.push(el);
     }
