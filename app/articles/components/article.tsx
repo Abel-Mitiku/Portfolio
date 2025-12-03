@@ -3,7 +3,21 @@ import { useState, useRef, useEffect } from "react";
 import gsap from "gsap";
 import Link from "next/link";
 
-export default function Article({ title, summary, date, tags, link }) {
+interface ArticlePropes {
+  title: string;
+  summary: string;
+  date: string;
+  tags: string[];
+  link: string;
+}
+
+export default function Article({
+  title,
+  summary,
+  date,
+  tags,
+  link,
+}: ArticlePropes) {
   const [details, setDetails] = useState(false);
   return (
     <div className="w-full flex flex-col border rounded mt-4 py-2 px-1 cursor-default dark:hover:bg-gray-800 hover:bg-gray-100">
