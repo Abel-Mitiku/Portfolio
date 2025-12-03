@@ -78,7 +78,7 @@ export default function About() {
   }, []);
   return (
     <div className="w-full flex flex-col items-center mt-8 pt-16">
-      <h1 className="text-4xl font-bold" ref={heading}>
+      <h1 className="text-4xl font-bold max-[500px]:ml-8" ref={heading}>
         Passion Fuels Purpose!
       </h1>
       <div
