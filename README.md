@@ -50,6 +50,8 @@
 ![About me section with bio and skills overview](<img width="1880" height="950" alt="image" src="https://github.com/user-attachments/assets/9c8aee38-7122-45b9-9930-9cf56186f7af" />
 )
 
+<img width="1878" height="953" alt="image" src="https://github.com/user-attachments/assets/1bf7567c-9ebe-4d1c-a100-bd449de89df1" />
+
 
 
 
