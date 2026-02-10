@@ -30,22 +30,32 @@
 
 ## 📸 Screenshots
 
-### 🖥️ Desktop View
-<img src="https://github.com/user-attachments/assets/e633f1fb-f4d2-408e-aec5-9caed6e898eb" alt="Portfolio Desktop View - Full homepage with hero section, projects, and contact form" width="600">
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/e633f1fb-f4d2-408e-aec5-9caed6e898eb">
 
-### 📱 Mobile View  
-<img src="https://github.com/user-attachments/assets/9b895739-19ba-4b1e-9bd9-9ceac2c1f3de" alt="Portfolio Mobile View - Responsive design on smartphone" width="400">
+</td>
+    <td><img src="https://github.com/user-attachments/assets/9b895739-19ba-4b1e-9bd9-9ceac2c1f3de">
+</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1bf7567c-9ebe-4d1c-a100-bd449de89df1">
+</td>
+    <td><img src="https://github.com/user-attachments/assets/c4f73528-6360-4d24-b6ca-0c210e63db49">
+</td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/9c8aee38-7122-45b9-9930-9cf56186f7af">
+</td>
+    <td><img width="1872" height="950" alt="image" src="https://github.com/user-attachments/assets/dff7e9e2-d50d-4d54-9b16-41fcd2cf48f9" />
 
-### 🎨 Key Sections
+</td>
+  </tr>
+</table>
 
-#### Hero Section
-<img src="https://github.com/user-attachments/assets/1bf7567c-9ebe-4d1c-a100-bd449de89df1" alt="Hero section with name, title, and call-to-action button" width="600">
 
-#### Projects Showcase
-<img src="https://github.com/user-attachments/assets/c4f73528-6360-4d24-b6ca-0c210e63db49" alt="Projects grid displaying featured work with hover effects" width="600">
 
-#### About Section
-<img src="https://github.com/user-attachments/assets/9c8aee38-7122-45b9-9930-9cf56186f7af" alt="About me section with bio and skills overview" width="600">
+
 
 ## ✨ Features
 
