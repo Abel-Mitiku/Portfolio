@@ -27,6 +27,31 @@
 [![Portfolio](https://img.shields.io/badge/View_Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel)](https://portfolio-abel-mitiku.vercel.app/)
 
 ---
+## 📸 Screenshots
+
+### 🖥️ Desktop View
+![Portfolio Desktop View - Full homepage with hero section, projects, and contact form](<img width="1910" height="954" alt="image" src="https://github.com/user-attachments/assets/e633f1fb-f4d2-408e-aec5-9caed6e898eb" />)
+
+### 📱 Mobile View  
+![Portfolio Mobile View - Responsive design on smartphone](<img width="720" height="956" alt="image" src="https://github.com/user-attachments/assets/9b895739-19ba-4b1e-9bd9-9ceac2c1f3de" />
+)
+
+### 🎨 Key Sections
+
+#### Hero Section
+![Hero section with name, title, and call-to-action button](<img width="1878" height="953" alt="image" src="https://github.com/user-attachments/assets/1bf7567c-9ebe-4d1c-a100-bd449de89df1" />
+)
+
+#### Projects Showcase
+![Projects grid displaying featured work with hover effects](<img width="1889" height="942" alt="image" src="https://github.com/user-attachments/assets/c4f73528-6360-4d24-b6ca-0c210e63db49" />
+)
+
+#### About Section
+![About me section with bio and skills overview](<img width="1880" height="950" alt="image" src="https://github.com/user-attachments/assets/9c8aee38-7122-45b9-9930-9cf56186f7af" />
+)
+
+
+
 
 ## ✨ Features
 
