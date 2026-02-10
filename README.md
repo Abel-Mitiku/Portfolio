@@ -1,36 +1,79 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# 🌟 Abel Mitiku - Portfolio Website
 
-## Getting Started
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/GSAP-333333?style=for-the-badge&logo=greensock&logoColor=white" alt="GSAP" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+</p>
 
-First, run the development server:
+<p align="center">
+  <strong>My personal portfolio website — showcasing my work, skills, and projects.</strong>
+</p>
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+<p align="center">
+  <a href="#features">Features</a> •
+  <a href="#live-demo">Live Demo</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#tech-stack">Tech Stack</a> •
+  <a href="#installation">Installation</a>
+</p>
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🌐 Live Demo
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+[![Portfolio](https://img.shields.io/badge/View_Portfolio-Visit_Now-000000?style=for-the-badge&logo=vercel)](https://portfolio-abel-mitiku.vercel.app/)
 
-## Learn More
+---
 
-To learn more about Next.js, take a look at the following resources:
+## ✨ Features
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+### 🎨 Design & UX
+- ✅ **Modern, minimalist design** - Clean and professional aesthetic
+- ✅ **Smooth animations** - GSAP-powered scroll effects and transitions
+- ✅ **Fully responsive** - Perfect on mobile, tablet, and desktop
+- ✅ **Dark mode support** - Automatic system preference detection
+- ✅ **Fast loading** - Optimized images and code splitting
+- ✅ **Accessibility** - WCAG compliant, keyboard navigable
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+### 📱 Sections
+- ✅ **Hero section** - Eye-catching introduction with CTA
+- ✅ **About me** - Professional bio and skills overview
+- ✅ **Projects showcase** - Featured work with live demos
+- ✅ **Skills/Technologies** - Visual representation of tech stack
+- ✅ **Experience/Timeline** - Career journey and milestones
+- ✅ **Contact form** - Direct communication channel
+- ✅ **Footer** - Social links and copyright
 
-## Deploy on Vercel
+### ⚡ Interactive Elements
+- ✅ **Scroll-triggered animations** - GSAP timeline effects
+- ✅ **Hover effects** - Interactive cards and buttons
+- ✅ **Smooth scrolling** - Anchor links with easing
+- ✅ **Loading animations** - Elegant page transitions
+- ✅ **Cursor effects** - Custom cursor (optional)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+---
+
+## 🛠️ Tech Stack
+
+### Core Technologies
+| Technology | Purpose |
+|------------|---------|
+| **Next.js 14** | React framework with App Router |
+| **TypeScript** | Type-safe development |
+| **Tailwind CSS** | Utility-first styling |
+| **GSAP** | Advanced animations and scroll effects |
+| **Framer Motion** | React animations (optional) |
+
+### Additional Tools
+| Tool | Purpose |
+|------|---------|
+| **React Icons** | Icon library |
+| **EmailJS** | Contact form handling |
+| **Google Analytics** | Traffic analytics |
+| **Vercel** | Deployment and hosting |
+| **ESLint + Prettier** | Code quality and formatting |
+
