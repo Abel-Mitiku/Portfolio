@@ -31,7 +31,7 @@
 ## 📸 Screenshots
 
 ### 🖥️ Desktop View
-<img src="https://github.com/user-attachments/assets/e633f1fb-f4d2-408e-aec5-9caed6e898eb" alt="Portfolio Desktop View - Full homepage with hero section, projects, and contact form" width="100%">
+<img src="https://github.com/user-attachments/assets/e633f1fb-f4d2-408e-aec5-9caed6e898eb" alt="Portfolio Desktop View - Full homepage with hero section, projects, and contact form" width="400">
 
 ### 📱 Mobile View  
 <img src="https://github.com/user-attachments/assets/9b895739-19ba-4b1e-9bd9-9ceac2c1f3de" alt="Portfolio Mobile View - Responsive design on smartphone" width="400">
