@@ -27,7 +27,7 @@ export default function Navigation() {
   }, [mobile]);
 
   return (
-    <nav className="flex items-center justify-between h-16 w-full dark:bg-[#0f0f0f] bg-white shadow-sm border-b border-white/10 fixed top-0 z-10">
+    <nav className="flex items-center justify-between bg-gray-50 dark:bg-gray-900 h-16 w-full dark:bg-[#0f0f0f] bg-white shadow-sm border-b border-white/10 fixed top-0 z-10">
       <div className="ml-16 pc-menu">
         <ul className="flex space-x-6">
           <li onClick={() => router.push("/")} className="cursor-pointer">
