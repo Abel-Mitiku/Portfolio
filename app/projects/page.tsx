@@ -72,7 +72,7 @@ export default function Projects() {
                 className: "bg-white rounded",
               },
               {
-                src: "https://cdn.simpleicons.org/css3",
+                src: "https://unpkg.com/simple-icons@10.1.0/icons/css3.svg",
                 alt: "CSS3 logo",
                 className: "h-8",
               },
