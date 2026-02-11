@@ -50,7 +50,8 @@
     <td><img width="1896" height="884" alt="image" src="https://github.com/user-attachments/assets/a05f9be4-01e2-4960-bc4e-0a33fb91a52e" />
 
 </td>
-    <td><img width="1872" height="950" alt="image" src="https://github.com/user-attachments/assets/dff7e9e2-d50d-4d54-9b16-41fcd2cf48f9" />
+    <td>![Uploading image.png…]()
+
 
 </td>
   </tr>
